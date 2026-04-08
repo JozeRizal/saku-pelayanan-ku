@@ -1,0 +1,7 @@
+{
+  "name": "Saku Pelayanan",
+  "description": "A mobile-first utility tool for recording field transactions and export them for reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
